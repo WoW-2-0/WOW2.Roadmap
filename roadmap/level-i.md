@@ -16,6 +16,7 @@ test
 
 #### Day 1
 
+* Intro to .NET Platform - [Intro to .NET](http://localhost:5000/o/cncGNMEslMUW34fhoxqJ/s/FJcmrqDwKjqKEVudQzXM/ "mention")
 *
 
 #### Day 2
