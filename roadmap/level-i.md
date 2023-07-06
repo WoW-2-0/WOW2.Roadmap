@@ -31,7 +31,7 @@ test
 * Definition and Instantiation - [Definition and Instantiation](http://localhost:5000/s/EQ6EmSeScPe6ab3ndFH0/ "mention")
 * Console Input and Output - [Console Input and Output](http://localhost:5000/s/EQ6EmSeScPe6ab3ndFH0/console-input-and-output "mention")
 * Read and Write operation - [Read from and Write to variables](http://localhost:5000/s/EQ6EmSeScPe6ab3ndFH0/read-from-and-write-to-variables "mention")
-*
+* Explicit and \* &#x20;
 * Q\&A
 
 #### Day 3
