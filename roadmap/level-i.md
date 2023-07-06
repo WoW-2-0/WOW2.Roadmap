@@ -26,8 +26,13 @@ test
 
 #### Day 2
 
-* Project Types - [Intro](http://localhost:5000/s/lYB0jf1P1bcsX5w3QerY/ "mention")
+* Review
+* Version Control Basics - [Git Basics](http://localhost:5000/s/L9ELpa76zRfOR7Cndiki/version-control/git-basics "mention")
+* Definition and Instantiation - [Definition and Instantiation](http://localhost:5000/s/EQ6EmSeScPe6ab3ndFH0/ "mention")
+* Console Input and Output - [Console Input and Output](http://localhost:5000/s/EQ6EmSeScPe6ab3ndFH0/console-input-and-output "mention")
+* Read and Write operation - [Read from and Write to variables](http://localhost:5000/s/EQ6EmSeScPe6ab3ndFH0/read-from-and-write-to-variables "mention")
 *
+* Q\&A
 
 #### Day 3
 
