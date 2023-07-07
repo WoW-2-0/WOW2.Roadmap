@@ -86,6 +86,14 @@
 
 
 
+
+
+* Serialization and Deserialization
+* Communication between Applications
+* HTTP Basics and Conventions
+
+
+
 ## Week 6
 
 #### Day 1
