@@ -20,6 +20,11 @@
 * Console Input and Output - [Console Input and Output](http://localhost:5000/s/EQ6EmSeScPe6ab3ndFH0/console-input-and-output "mention")
 * Read and Write operation - [Read from and Write to variables](http://localhost:5000/s/EQ6EmSeScPe6ab3ndFH0/read-from-and-write-to-variables "mention")
 * Explicit and Implicit Typing
+* Primitive and Complex Types
+* Value and Reference Types
+* Static and Dynamic Types
+* Built-In and Custom Types
+* Hierarchy between types and System.Object
 * Q\&A
 
 #### Day 3
