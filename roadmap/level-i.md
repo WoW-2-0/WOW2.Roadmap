@@ -426,8 +426,6 @@
 
 <summary>Day 1 - Concurrency</summary>
 
-
-
 * Review
 
 <!---->
@@ -669,15 +667,18 @@
 <summary>Day 5 - Hands-On File Management</summary>
 
 * Review
+* Copy and Move&#x20;
+* Deleting Files
+* Moving and Deleting files
 * Recap and Q\&A
 
 </details>
 
-## Week 7
+## Week 7&#x20;
 
 <details>
 
-<summary>Day 1 - </summary>
+<summary>Day 1 - Algorithms</summary>
 
 * Review
 * Recap and Q\&A
@@ -720,11 +721,11 @@
 
 </details>
 
-## Week 8
+## Week 8&#x20;
 
 <details>
 
-<summary>Day 1</summary>
+<summary>Day 1 - Reflection</summary>
 
 * Review
 * Recap and Q\&A
@@ -733,7 +734,7 @@
 
 <details>
 
-<summary>Day 2</summary>
+<summary>Day 2 - Expression</summary>
 
 * Review
 * Recap and Q\&A
@@ -742,7 +743,7 @@
 
 <details>
 
-<summary>Day 3</summary>
+<summary>Day 3 - </summary>
 
 * Review
 * Recap and Q\&A
@@ -751,9 +752,10 @@
 
 <details>
 
-<summary>Day 4</summary>
+<summary>Day 4 - Hands-On Reflection</summary>
 
 * Review
+* Custom attributes
 * Recap and Q\&A
 
 </details>
@@ -879,9 +881,41 @@
 
 * Web API
 * Multitasking
-*
+* Architecture
 * Serialization and Deserialization
 * Communication between Applications
 * HTTP Basics and Conventions
 * Record, Struct, Enum
 * Delegae and Event
+
+
+
+
+
+
+
+
+
+
+
+* Reflections, Expressions and
+
+1. Dynamic Programming:
+   * Dynamic programming refers to the ability to work with types and members that are resolved at runtime rather than compile time.
+   * The `dynamic` keyword in C# allows for late binding and dynamic dispatch of method calls and property access.
+2. Code Generation:
+   * Code generation involves creating or modifying source code programmatically at runtime.
+   * It allows you to dynamically create classes, methods, properties, and other code constructs.
+   * Techniques for code generation include using libraries like CodeDom, Roslyn, or emitting IL (Intermediate Language) code directly.
+3. Reflection Emit:
+   * Reflection Emit is a powerful feature in C# that allows the generation of IL code dynamically at runtime.
+   * It provides the ability to define and create types, methods, and properties at runtime, and even execute them.
+4. Attributes:
+   * Attributes provide a way to add metadata and additional information to types, methods, properties, and other code elements.
+   * They can be used to provide instructions to the compiler, control runtime behavior, or enable custom code analysis and generation.
+5. Delegates and Events:
+   * Delegates and events provide mechanisms for working with and invoking methods dynamically at runtime.
+   * They allow for decoupling of event producers and consumers, enabling dynamic event subscriptions and invocations.
+6. Code Contracts:
+   * Code Contracts are a way to specify preconditions, postconditions, and invariants in code to improve program correctness and maintainability.
+   * They provide runtime checking and verification of contracts defined in code, aiding in debugging and code understanding.
