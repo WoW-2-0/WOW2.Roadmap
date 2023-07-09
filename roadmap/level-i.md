@@ -123,8 +123,10 @@
 * Class Behavior Members - Constructor, Finalizer, Methods
 * Advanced Methods - Parameters ( Named, Optional ), Signature and Return value
 * Inheritance and Model Relationship -&#x20;
+* Inheritance Types -&#x20;
 * Encapsulation - Access Modifiers
-* Q\&A
+* Encapsulation Types -&#x20;
+* Recap and Q\&A
 
 
 
@@ -137,19 +139,42 @@
 * Generic Methods
 * Constraints
 * Benefits and Best Practices&#x20;
-* Q\&A
+* Recap and Q\&A
 
 #### Day 2 - Collections
+
+* Review
+* Briefly about Resources
+* Collections
+* Collection Initialization
+* Generic Collections
+* Collection Intefaces and Relationship
+* Recap and Q\&A
 
 #### Day 3 - Hands-On OOP 1
 
 * Review
-* Abstraction
+* Constant, Write Only, Read Only and Init Only
+* Abstraction&#x20;
+* Abstract Classes
+* Abstract Class via Interface
+* Polymorphism
+* Overloading and Overriding in Polymorphism
+* Class types  - static, selaed, abstract, partial
+* Constructor types -&#x20;
+* Best Principles of OOP -&#x20;
 * Q\&A
 
 #### Day 4 - Hands-On Generics
 
+* Review
+*
+* Recap and Q\&A
+
 #### Day 5 - Hands-On Collections
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -157,13 +182,39 @@
 
 #### Day 1 - Concurrency
 
+* Review
+* Recap and Q\&A
+
 #### Day 2 - Hands-On Collections 2
+
+* Review
+* Filtering
+* Pagination
+* Sorting
+* Distinct
+* Iterating and Enumeration
+* Recap and Q\&A
 
 #### Day 3 - Speaking C\#
 
+* Review
+* Statements and Comments
+* Block and Scope
+* C# vocabulary
+* Global namespaces
+* Code Syntax
+* Verbs and Nouns
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -171,13 +222,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -193,13 +259,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -207,13 +288,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -221,13 +317,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -235,13 +346,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -249,13 +375,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 

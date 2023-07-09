@@ -4,13 +4,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -18,13 +33,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -32,13 +62,28 @@
 
 #### Day 1
 
-#### Day 1
+* Review
+* Recap and Q\&A
 
 #### Day 1
 
-#### Day 1
+* Review
+* Recap and Q\&A
 
 #### Day 1
+
+* Review
+* Recap and Q\&A
+
+#### Day 1
+
+* Review
+* Recap and Q\&A
+
+#### Day 1
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -46,13 +91,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -60,13 +120,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -74,13 +149,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -88,13 +178,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -102,13 +207,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -116,13 +236,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -130,13 +265,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -144,13 +294,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -158,13 +323,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -172,13 +352,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -186,13 +381,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -200,13 +410,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -214,13 +439,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -228,13 +468,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -242,13 +497,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -256,13 +526,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -270,13 +555,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -284,13 +584,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 
 
@@ -298,13 +613,28 @@
 
 #### Day 1
 
+* Review
+* Recap and Q\&A
+
 #### Day 2
+
+* Review
+* Recap and Q\&A
 
 #### Day 3
 
+* Review
+* Recap and Q\&A
+
 #### Day 4
 
+* Review
+* Recap and Q\&A
+
 #### Day 5
+
+* Review
+* Recap and Q\&A
 
 ### W1
 
