@@ -2,17 +2,45 @@
 
 ## Week 1&#x20;
 
-#### Day 1 - Introduction
+<details>
+
+<summary>Day 1 - Introduction</summary>
+
+
 
 * Intro to .NET Platform - [Intro](http://localhost:5000/s/FJcmrqDwKjqKEVudQzXM/ "mention")
+
+<!---->
+
 * Solutions by .NET - [Solutions by .NET](http://localhost:5000/s/FJcmrqDwKjqKEVudQzXM/solutions-by-.net "mention")
+
+<!---->
+
 * Environment Setup - [SDK](http://localhost:5000/s/L9ELpa76zRfOR7Cndiki/ "mention") and [IDE](http://localhost:5000/s/L9ELpa76zRfOR7Cndiki/ide "mention")
+
+<!---->
+
 * Creating simple console app - [Creating Simple Console App](http://localhost:5000/s/lYB0jf1P1bcsX5w3QerY/console-project/creating-simple-console-app "mention")
+
+<!---->
+
 * Environment Setup 2 - [Version Control](http://localhost:5000/s/L9ELpa76zRfOR7Cndiki/version-control "mention") and [Git Setup](http://localhost:5000/s/L9ELpa76zRfOR7Cndiki/version-control/git-setup "mention")
+
+<!---->
+
 * Searching and Learning Resources - [Searching Resources](http://localhost:5000/s/wpbnYiHefP0V0pfjLpxt/ "mention") and [Learning Resources](http://localhost:5000/s/wpbnYiHefP0V0pfjLpxt/learning-resources "mention")
+
+<!---->
+
 * Recap and Q\&A
 
-#### Day 2 - Data and Project Types
+
+
+</details>
+
+<details>
+
+<summary>Day 2 - Data and Project Types</summary>
 
 * Review
 * Version Control Basics - [Git Basics](http://localhost:5000/s/L9ELpa76zRfOR7Cndiki/version-control/git-basics "mention")
@@ -29,7 +57,11 @@
 * Hierarchy between types and System.Object
 * Recap and Q\&A
 
-#### Day 3 - String Operations
+</details>
+
+<details>
+
+<summary>Day 3 - String Operations</summary>
 
 * Review
 * Version Control Basics
@@ -45,7 +77,11 @@
 * Trim and Padding
 * Recap and Q\&A
 
-#### Day 4 - Control Structures&#x20;
+</details>
+
+<details>
+
+<summary>Day 4 - Control Structures </summary>
 
 * Review
 * Flow Control Intro
@@ -55,9 +91,13 @@
 * Loops with Do-While, While, For, ForEach
 * Recap and Q\&A
 
-#### Day 5 - Hands-On Data Types
+</details>
 
-* Review&#x20;
+<details>
+
+<summary>Day 5 - Hands-On Data Types</summary>
+
+* Review
 * Constants and Variables -&#x20;
 * Date types ( `DateTime` ,`DateOnly` , `DateTimeOffset`  ) -
 * Unique Id type - Guid
@@ -72,7 +112,9 @@
 * Arithmetic, Assignment, Comparison, Logical, Bitwise Operators and Operands
 * Recap and Q\&A
 
+</details>
 
+***
 
 ## Week 2
 
