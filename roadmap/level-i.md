@@ -66,6 +66,7 @@
 * Branching and Looping
 * Branching with If, If-Else, Else-If
 * Branching with Switch statement and Switch expression
+* Flow control with continue and break
 * Loops with Do-While, While, For, ForEach
 * Recap and Q\&A
 
@@ -83,8 +84,8 @@
 * Object collection type - Array
 * Head and Scope
 * Variable scope
-* Conversion between types and Parsing
-* Boxing and Unboxing
+* Casting, Conversion and&#x20;
+*
 * Implicit and Explicit casting
 * Array and Collections intro
 * Arithmetic, Assignment, Comparison, Logical, Bitwise Operators and Operands
@@ -130,24 +131,11 @@
 
 <summary>Day 2 - Hands-On Control Structures</summary>
 
-
-
-* Review&#x20;
-
-<!---->
-
+* Review
 * Nested Control Structures and How to fix&#x20;
-
-<!---->
-
+* Branching with GoTo
 * Exceptions and Catching Exceptions
-
-<!---->
-
 * Advanced Pattern Matching
-
-<!---->
-
 * Recap and Q\&A
 
 </details>
@@ -201,10 +189,12 @@
 
 
 * Review&#x20;
+*
 
 <!---->
 
 * Custom types - Class and Interface
+* Class and Object
 * Class and System.Object Relationship
 
 <!---->
@@ -256,6 +246,7 @@
 <!---->
 
 * Inheritance and Model Relationship -&#x20;
+* Base and Child vocabulary -&#x20;
 
 <!---->
 
@@ -324,6 +315,7 @@
 <!---->
 
 * Collections
+* Built-In Collection - [Built-In Collections](http://localhost:5000/s/EQ6EmSeScPe6ab3ndFH0/collections/built-in-collections "mention")
 
 <!---->
 
@@ -332,6 +324,7 @@
 <!---->
 
 * Generic Collections
+* Collections -&#x20;
 
 <!---->
 
@@ -370,10 +363,12 @@
 <!---->
 
 * Polymorphism
+*
 
 <!---->
 
 * Overloading and Overriding in Polymorphism
+* Operator Overloading
 
 <!---->
 
@@ -519,10 +514,14 @@
 
 * Review
 * Pattern Matching with objects
+* Overriding Priority for `new` and `virtual` methods -&#x20;
+* Casting&#x20;
 * Defining indexers
+* Boxing and Unboxing
 * Copy vs Clone
 * Deep Copy and Shallow Copy
 * Record, Struct and Enum
+* Reference Type inside a Value Type
 * Recap and Q\&A
 
 </details>
@@ -532,6 +531,7 @@
 <summary>Day 5 - Hands-On Concurrency</summary>
 
 * Review
+*
 * Recap and Q\&A
 
 </details>
@@ -573,18 +573,24 @@
 
 <details>
 
-<summary>Day 4 - </summary>
+<summary>Day 4 - Speaking C# 2</summary>
 
 * Review
+* Comments
+* Documentation
+* Convention and Standards
+* Principle and Pattern intro
 * Recap and Q\&A
 
 </details>
 
 <details>
 
-<summary>Day 5 - </summary>
+<summary>Day 5 - Hands-On Delegate and Events</summary>
 
 * Review
+* Built-In delegates - Func\<T>, Action\<T>, Predicate\<T>&#x20;
+* Lambda expression and Anonymous Method
 * Recap and Q\&A
 
 </details>
@@ -593,11 +599,7 @@
 
 
 
-* Serialization and Deserialization
-* Communication between Applications
-* HTTP Basics and Conventions
-* Record, Struct, Enum
-* Delegae and Event
+*
 
 
 
@@ -605,43 +607,66 @@
 
 <details>
 
-<summary>Day 1</summary>
+<summary>Day 1 - Streams</summary>
 
 * Review
+* Streams
+* Input and Output Streams
+* Built-in Streams -&#x20;
+* Reading from Streams
+* Writing to Streams
+*
 * Recap and Q\&A
 
 </details>
 
 <details>
 
-<summary>Day 2</summary>
+<summary>Day 2 - Stream Types</summary>
 
 * Review
+*
+* Text Streams ( `TextWriter` and `TextReader` ) -
+* Stream ( StreamWriter and StreamReader )
+* Binary Streams -&#x20;
+* String Streams -&#x20;
+* &#x20;
+*
 * Recap and Q\&A
 
 </details>
 
 <details>
 
-<summary>Day 3</summary>
+<summary>Day 3 - File Management</summary>
 
 * Review
+* Input and Output operations ( I/O ) -&#x20;
+* File information - FileInfo
+* Directory Information - DirectoryInfo
+*
 * Recap and Q\&A
 
 </details>
 
 <details>
 
-<summary>Day 4</summary>
+<summary>Day 4 - Hands-On Streams</summary>
 
 * Review
+* Stream Decorators
+* Efficient and Secure usage of Streams
+* Error Handling and Resource Management
+* Encoding and Serialization
+* Serialization into and from a Stream
+*
 * Recap and Q\&A
 
 </details>
 
 <details>
 
-<summary>Day 5</summary>
+<summary>Day 5 - Hands-On File Management</summary>
 
 * Review
 * Recap and Q\&A
@@ -652,7 +677,7 @@
 
 <details>
 
-<summary>Day 1</summary>
+<summary>Day 1 - </summary>
 
 * Review
 * Recap and Q\&A
@@ -849,3 +874,14 @@
 * Recap and Q\&A
 
 </details>
+
+
+
+* Web API
+* Multitasking
+*
+* Serialization and Deserialization
+* Communication between Applications
+* HTTP Basics and Conventions
+* Record, Struct, Enum
+* Delegae and Event
