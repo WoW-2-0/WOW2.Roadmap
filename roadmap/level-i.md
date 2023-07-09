@@ -96,174 +96,486 @@
 
 ## Week 2
 
-#### Day 1 - Hands-On String Operations
+<details>
+
+<summary>Day 1 - Hands-On String Operations</summary>
+
+
 
 * Review&#x20;
+
+<!---->
+
 * String, String Builder and String Pool
+
+<!---->
+
 * Regular Expression
+
+<!---->
+
 * String Encoding and Decoding
+
+<!---->
+
 * Date Formatting for String
+
+<!---->
+
 * Recap and Q\&A
 
-#### Day 2 - Hands-On Control Structures
+</details>
+
+<details>
+
+<summary>Day 2 - Hands-On Control Structures</summary>
+
+
 
 * Review&#x20;
+
+<!---->
+
 * Nested Control Structures and How to fix&#x20;
+
+<!---->
+
 * Exceptions and Catching Exceptions
+
+<!---->
+
 * Advanced Pattern Matching
+
+<!---->
+
 * Recap and Q\&A
 
-#### Day 3 - .NET Internals  and Version Control
+</details>
+
+<details>
+
+<summary>Day 3 - .NET Internals  and Version Control</summary>
+
+
 
 * Review&#x20;
+
+<!---->
+
 * CTS, CLS, CLR, IL
+
+<!---->
+
 * .NET Framework, .NET Core and .NET Standard
+
+<!---->
+
 * .NET SDK and .NET Runtime
+
+<!---->
+
 * Compiling, Decompiling, JIT
+
+<!---->
+
 * C# vocabulary
+
+<!---->
+
 * Code Syntax and Comments
+
+<!---->
+
 * Version control basics
+
+<!---->
+
 * Recap and Q\&A
 
-#### Day 4 - OOP Intro
+</details>
+
+<details>
+
+<summary>Day 4 - OOP Intro</summary>
+
+
 
 * Review&#x20;
+
+<!---->
+
 * Custom types - Class and Interface
+
+<!---->
+
 * Inheritance in brief
+
+<!---->
+
 * Encapsulation in brief
+
+<!---->
+
 * Abstraction in brief
+
+<!---->
+
 * Polymorphism in brief
+
+<!---->
+
 * Interface and Abstract Class
+
+<!---->
+
 * Recap and Q\&A
 
-#### Day 5 - OOP principles
+</details>
+
+<details>
+
+<summary>Day 5 - OOP principles</summary>
+
+
 
 * Review
+
+<!---->
+
 * Class Data Members - Field, Property, Getter and Setter
+
+<!---->
+
 * Class Behavior Members - Constructor, Finalizer, Methods
+
+<!---->
+
 * Advanced Methods - Parameters ( Named, Optional ), Signature and Return value
+
+<!---->
+
 * Inheritance and Model Relationship -&#x20;
+
+<!---->
+
 * Inheritance Types -&#x20;
+
+<!---->
+
 * Encapsulation - Access Modifiers
+
+<!---->
+
 * Encapsulation Types -&#x20;
+
+<!---->
+
 * Recap and Q\&A
 
+</details>
 
+***
 
 ## Week 3
 
-#### Day 1 - Generics
+<details>
+
+<summary>Day 1 - Generics</summary>
+
+
 
 * Review
+
+<!---->
+
 * Generic Classes and Interfaces
+
+<!---->
+
 * Generic Methods
+
+<!---->
+
 * Constraints
+
+<!---->
+
 * Benefits and Best Practices&#x20;
+
+<!---->
+
 * Recap and Q\&A
 
-#### Day 2 - Collections
+</details>
+
+<details>
+
+<summary>Day 2 - Collections</summary>
+
+
 
 * Review
+
+<!---->
+
 * Briefly about Resources
+
+<!---->
+
 * Collections
+
+<!---->
+
 * Collection Initialization
+
+<!---->
+
 * Generic Collections
+
+<!---->
+
 * Collection Intefaces and Relationship
+
+<!---->
+
 * Recap and Q\&A
 
-#### Day 3 - Hands-On OOP 1
+</details>
+
+<details>
+
+<summary>Day 3 - Hands-On OOP 1</summary>
+
+
 
 * Review
+
+<!---->
+
 * Constant, Write Only, Read Only and Init Only
+
+<!---->
+
 * Abstraction&#x20;
+
+<!---->
+
 * Abstract Classes
+
+<!---->
+
 * Abstract Class via Interface
+
+<!---->
+
 * Polymorphism
+
+<!---->
+
 * Overloading and Overriding in Polymorphism
+
+<!---->
+
 * Class types  - static, selaed, abstract, partial
+
+<!---->
+
 * Constructor types -&#x20;
+
+<!---->
+
 * Best Principles of OOP -&#x20;
+
+<!---->
+
 * Q\&A
 
-#### Day 4 - Hands-On Generics
+</details>
+
+<details>
+
+<summary>Day 4 - Hands-On Generics</summary>
+
+
 
 * Review
+
+<!---->
+
 *
+
+<!---->
+
 * Recap and Q\&A
 
-#### Day 5 - Hands-On Collections
+</details>
+
+<details>
+
+<summary>Day 5 - Hands-On Collections</summary>
+
+
 
 * Review
+
+<!---->
+
 * Recap and Q\&A
 
-
+</details>
 
 ## Week 4
 
-#### Day 1 - Concurrency
+<details>
+
+<summary>Day 1 - Concurrency</summary>
+
+
 
 * Review
+
+<!---->
+
 * Recap and Q\&A
 
-#### Day 2 - Hands-On Collections 2
+</details>
+
+<details>
+
+<summary>Day 2 - Hands-On Collections 2</summary>
+
+
 
 * Review
+
+<!---->
+
 * Filtering
+
+<!---->
+
 * Pagination
+
+<!---->
+
 * Sorting
+
+<!---->
+
 * Distinct
+
+<!---->
+
 * Iterating and Enumeration
+
+<!---->
+
 * Recap and Q\&A
 
-#### Day 3 - Speaking C\#
+</details>
+
+<details>
+
+<summary>Day 3 - Speaking C#</summary>
+
+
 
 * Review
+
+<!---->
+
 * Statements and Comments
+
+<!---->
+
 * Block and Scope
+
+<!---->
+
 * C# vocabulary
+
+<!---->
+
 * Global namespaces
+
+<!---->
+
 * Code Syntax
+
+<!---->
+
 * Verbs and Nouns
+
+<!---->
+
 * Recap and Q\&A
 
-#### Day 4
+</details>
+
+<details>
+
+<summary>Day 4</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 5
+</details>
+
+<details>
+
+<summary>Day 5 </summary>
 
 * Review
 * Recap and Q\&A
 
-
+</details>
 
 ## Week 5
 
-#### Day 1
+<details>
+
+<summary>Day 1</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 2
+</details>
+
+<details>
+
+<summary>Day 2</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 3
+</details>
+
+<details>
+
+<summary>Day 3</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 4
+</details>
+
+<details>
+
+<summary>Day 4</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 5
+</details>
+
+<details>
+
+<summary>Day 5</summary>
 
 * Review
 * Recap and Q\&A
+
+</details>
 
 
 
@@ -272,6 +584,8 @@
 * Serialization and Deserialization
 * Communication between Applications
 * HTTP Basics and Conventions
+* Record, Struct, Enum
+* Delegae and Event
 
 
 
