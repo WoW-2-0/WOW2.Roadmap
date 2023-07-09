@@ -368,7 +368,7 @@
 <!---->
 
 * Overloading and Overriding in Polymorphism
-* Operator Overloading
+* Shadowing and Operator Overloading
 
 <!---->
 
@@ -529,7 +529,8 @@
 <summary>Day 5 - Hands-On Concurrency</summary>
 
 * Review
-*
+* Synchronization between Threads
+* Dead-Lock and Starvation
 * Recap and Q\&A
 
 </details>
@@ -678,9 +679,11 @@
 
 <details>
 
-<summary>Day 1 - Algorithms</summary>
+<summary>Day 1 - Data Structure and Algorithms</summary>
 
 * Review
+* Queue - PriorityQueue
+*
 * Recap and Q\&A
 
 </details>
@@ -777,16 +780,17 @@
 
 <details>
 
-<summary>Day 1</summary>
+<summary>Day 1 - App Communication</summary>
 
 * Review
+* &#x20; WebClient and HttpClient&#x20;
 * Recap and Q\&A
 
 </details>
 
 <details>
 
-<summary>Day 2</summary>
+<summary>Day 2 - Resource and Entity</summary>
 
 * Review
 * Recap and Q\&A
@@ -882,11 +886,14 @@
 * Web API
 * Multitasking
 * Architecture
-* Serialization and Deserialization
-* Communication between Applications
+* Task vs Thread
+* Checked/Unchecked and Managed/Unmanaged
 * HTTP Basics and Conventions
-* Record, Struct, Enum
-* Delegae and Event
+*
+
+
+
+*
 
 
 
