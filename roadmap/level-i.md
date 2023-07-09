@@ -93,19 +93,23 @@
 * Advanced Pattern Matching
 * Recap and Q\&A
 
-#### Day 3 - .NET Internals&#x20;
+#### Day 3 - .NET Internals  and Version Control
 
 * Review&#x20;
 * CTS, CLS, CLR, IL
+* .NET Framework, .NET Core and .NET Standard
+* .NET SDK and .NET Runtime
 * Compiling, Decompiling, JIT
+* C# vocabulary
+* Code Syntax and Comments
 * Version control basics
 * Recap and Q\&A
 
-#### Day 4
+#### Day 4 - OOP Intro
 
 *
 
-#### Day 5
+#### Day 5 - OOP principles
 
 *
 
@@ -113,25 +117,25 @@
 
 ## Week 3
 
-#### Day 1
+#### Day 1 - Generics
 
-#### Day 2
+#### Day 2 - Collections
 
-#### Day 3
+#### Day 3 - Hands-On OOP 1
 
-#### Day 4
+#### Day 4 - Hands-On Generics
 
-#### Day 5
+#### Day 5 - Hands-On Collections
 
 
 
 ## Week 4
 
-#### Day 1
+#### Day 1 - Concurrency
 
-#### Day 2
+#### Day 2 - Hands-On Collections 2
 
-#### Day 3
+#### Day 3 - Speaking C\#
 
 #### Day 4
 
