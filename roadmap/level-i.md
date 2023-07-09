@@ -53,7 +53,18 @@
 * Loops with For, ForEach, While, Do-While
 * Recap and Q\&A
 
-#### Day 5
+#### Day 5 - Hands-On Data Types
+
+* Review&#x20;
+* Constants and Variables -&#x20;
+* Date types ( `DateTime` ,`DateOnly` , `DateTimeOffset`  ) -
+* Unique Id type - Guid
+* Big numerics type - BigInteger
+* Head and Scope
+* Variable scope
+* Conversion between types
+*
+* Recap and Q\&A
 
 
 
