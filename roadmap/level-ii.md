@@ -1,6 +1,10 @@
 # Level II
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-07-09 173327.png" alt=""><figcaption></figcaption></figure>
+## Overview
+
+<table><thead><tr><th width="193.33333333333331">Platform</th><th width="185">LLA</th><th width="184">ILA</th><th>HLA</th></tr></thead><tbody><tr><td>C# Advanced Features</td><td>Framework Patterns</td><td>Common Components</td><td>System Design Fundamentals</td></tr><tr><td>C# Patterns and Principles</td><td></td><td></td><td>Deployment</td></tr><tr><td>Typescript Intro</td><td></td><td></td><td></td></tr></tbody></table>
+
+##
 
 ## Week 11
 
