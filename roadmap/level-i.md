@@ -30,8 +30,28 @@
 #### Day 3 - String Operations
 
 * Review
+* Version Control Basics
+* Concatenation
+* Escape Characters and Verbatim String
+* Interpolation and Formatting
+* Length, Indexing and Substring
+* Splitting and Joining
+* Cases, Case Conversion
+* Comparison and Equality
+* Searching
+* Replacing
+* Trim and Padding
+* Recap and Q\&A
 
-#### Day 4
+#### Day 4 - Control Structrues&#x20;
+
+* Review
+* Flow Control Intro
+* Branching and Looping
+* Branching with If, If-Else, Else-If
+* Branching with Switch statement and Switch expression
+* Loops with For, ForEach, While, Do-While
+* Recap and Q\&A
 
 #### Day 5
 
