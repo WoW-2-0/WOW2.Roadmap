@@ -526,7 +526,7 @@
 * Boxing and Unboxing
 * Copy vs Clone
 * Deep Copy and Shallow Copy
-* Record, Struct and Enum
+* Record, Struct, Tuple and Enum
 * Reference Type inside a Value Type
 * Extension Methods
 * Recap and Q\&A
@@ -795,8 +795,9 @@
 <summary>Day 1 - App Communication</summary>
 
 * Review
-* Encoding and Decoding -&#x20;
-* &#x20; WebClient and HttpClient&#x20;
+* Encoding and Decoding -  [Encoding](http://localhost:5000/s/pAIkBYdoE7jJ3IQpTNmO/encoding "mention") and [Decoding](http://localhost:5000/s/pAIkBYdoE7jJ3IQpTNmO/encoding/decoding "mention")
+*
+* WebClient and HttpClient&#x20;
 * Recap and Q\&A
 
 </details>
