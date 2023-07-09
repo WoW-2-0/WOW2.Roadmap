@@ -107,11 +107,24 @@
 
 #### Day 4 - OOP Intro
 
-*
+* Review&#x20;
+* Custom types - Class and Interface
+* Inheritance in brief
+* Encapsulation in brief
+* Abstraction in brief
+* Polymorphism in brief
+* Interface and Abstract Class
+* Recap and Q\&A
 
 #### Day 5 - OOP principles
 
-*
+* Review
+* Class Data Members - Field, Property, Getter and Setter
+* Class Behavior Members - Constructor, Finalizer, Methods
+* Advanced Methods - Parameters ( Named, Optional ), Signature and Return value
+* Inheritance and Model Relationship -&#x20;
+* Encapsulation - Access Modifiers
+* Q\&A
 
 
 
@@ -119,9 +132,20 @@
 
 #### Day 1 - Generics
 
+* Review
+* Generic Classes and Interfaces
+* Generic Methods
+* Constraints
+* Benefits and Best Practices&#x20;
+* Q\&A
+
 #### Day 2 - Collections
 
 #### Day 3 - Hands-On OOP 1
+
+* Review
+* Abstraction
+* Q\&A
 
 #### Day 4 - Hands-On Generics
 
