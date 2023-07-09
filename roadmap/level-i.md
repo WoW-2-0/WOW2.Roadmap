@@ -2,7 +2,7 @@
 
 ## Overview
 
-<table><thead><tr><th width="190.33333333333331">Platform</th><th width="172">LLA</th><th>ILA</th><th>HLA</th></tr></thead><tbody><tr><td>C# Fundamentals</td><td>Asp.NET Core Configuration</td><td></td><td></td></tr><tr><td>C# Data Structure and Algorithms</td><td>Asp.NET Core Common Components</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="190.33333333333331">Platform</th><th width="173">LLA</th><th>ILA</th><th>HLA</th></tr></thead><tbody><tr><td>C# Core</td><td>Asp.NET Core Configuration</td><td></td><td></td></tr><tr><td>C# Data Structure and Algorithms</td><td>Asp.NET Core Common Components</td><td></td><td></td></tr></tbody></table>
 
 
 
@@ -402,10 +402,11 @@
 
 
 * Review
+* `any` constraint
 
 <!---->
 
-*
+* Invariance and Covariance
 
 <!---->
 
@@ -527,6 +528,7 @@
 * Deep Copy and Shallow Copy
 * Record, Struct and Enum
 * Reference Type inside a Value Type
+* Extension Methods
 * Recap and Q\&A
 
 </details>
@@ -663,7 +665,9 @@
 * Stream Decorators
 * Efficient and Secure usage of Streams
 * Error Handling and Resource Management
-* Encoding and Serialization
+
+<!---->
+
 * Serialization into and from a Stream
 *
 * Recap and Q\&A
@@ -678,6 +682,7 @@
 * Copy and Move&#x20;
 * Deleting Files
 * Moving and Deleting files
+*
 * Recap and Q\&A
 
 </details>
@@ -790,6 +795,7 @@
 <summary>Day 1 - App Communication</summary>
 
 * Review
+* Encoding and Decoding -&#x20;
 * &#x20; WebClient and HttpClient&#x20;
 * Recap and Q\&A
 
