@@ -96,6 +96,51 @@
 
 ## Week 13
 
+<details>
+
+<summary>Day 1</summary>
+
+* Review
+* Recap and Q\&A
+
+</details>
+
+<details>
+
+<summary>Day 2</summary>
+
+* Review
+* Recap and Q\&A
+
+</details>
+
+<details>
+
+<summary>Day 3</summary>
+
+* Review
+* Recap and Q\&A
+
+</details>
+
+<details>
+
+<summary>Day 4</summary>
+
+* Review
+* Recap and Q\&A
+
+</details>
+
+<details>
+
+<summary>Day 5</summary>
+
+* Review
+* Recap and Q\&A
+
+</details>
+
 #### Day 1
 
 * Review
