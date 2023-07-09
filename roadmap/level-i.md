@@ -91,8 +91,10 @@
 * Head and Scope
 * Variable scope
 * Casting, Conversion and&#x20;
-*
 * Implicit and Explicit casting
+
+<!---->
+
 * Array and Collections intro
 * Arithmetic, Assignment, Comparison, Logical, Bitwise Operators and Operands
 * Recap and Q\&A
@@ -526,7 +528,8 @@
 * Boxing and Unboxing
 * Copy vs Clone
 * Deep Copy and Shallow Copy
-* Record, Struct, Tuple and Enum
+* Record, Struct and Enum
+* Tuple, ValueTuple and Yield
 * Reference Type inside a Value Type
 * Extension Methods
 * Recap and Q\&A
@@ -602,14 +605,6 @@
 * Recap and Q\&A
 
 </details>
-
-
-
-
-
-*
-
-
 
 ## Week 6
 
@@ -795,9 +790,12 @@
 <summary>Day 1 - App Communication</summary>
 
 * Review
-* Encoding and Decoding -  [Encoding](http://localhost:5000/s/pAIkBYdoE7jJ3IQpTNmO/encoding "mention") and [Decoding](http://localhost:5000/s/pAIkBYdoE7jJ3IQpTNmO/encoding/decoding "mention")
-*
-* WebClient and HttpClient&#x20;
+* App Communication
+* Communication Protocols
+* Frontend-Backend or Client-Server
+* Request and Response
+* API endpoints and Routes
+* WebClient and HttpClient
 * Recap and Q\&A
 
 </details>
@@ -807,24 +805,41 @@
 <summary>Day 2 - Resource and Entity</summary>
 
 * Review
+* Resource and Entity
+* URI and URL
+* Designing Resource URL -&#x20;
+* REST conventions
+* Resource representation
+* CRUD Operations
+* Entity Relationship
 * Recap and Q\&A
 
 </details>
 
 <details>
 
-<summary>Day 3</summary>
+<summary>Day 3 - Web API</summary>
 
 * Review
+* Web API
+* Creating new Asp.NET Core Project
+* Asp.NET Core Intro
+* Creating Models in Web API
+* HTTP Protocol and HTTPS
+* HTTP methods
+*
+* Controllers and Endpoints
+*
 * Recap and Q\&A
 
 </details>
 
 <details>
 
-<summary>Day 4</summary>
+<summary>Day 4 - Hands-On App Communication</summary>
 
 * Review
+* REST conventions
 * Recap and Q\&A
 
 </details>
@@ -843,6 +858,8 @@
 </details>
 
 
+
+Encoding and Decoding -  [Encoding](http://localhost:5000/s/pAIkBYdoE7jJ3IQpTNmO/encoding "mention") and [Decoding](http://localhost:5000/s/pAIkBYdoE7jJ3IQpTNmO/encoding/decoding "mention")
 
 ## Week 10
 
@@ -894,6 +911,18 @@
 * Recap and Q\&A
 
 </details>
+
+
+
+
+
+
+
+
+
+
+
+Level I
 
 
 
