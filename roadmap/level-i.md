@@ -19,6 +19,7 @@
 * Definition and Instantiation - [Definition and Instantiation](http://localhost:5000/s/EQ6EmSeScPe6ab3ndFH0/ "mention")
 * Console Input and Output - [Console Input and Output](http://localhost:5000/s/EQ6EmSeScPe6ab3ndFH0/console-input-and-output "mention")
 * Read and Write operation - [Read from and Write to variables](http://localhost:5000/s/EQ6EmSeScPe6ab3ndFH0/read-from-and-write-to-variables "mention")
+* Definition and Initialization
 * Digit Separator, Literal Values and Default Values
 * Explicit and Implicit Typing
 * Primitive and Complex Types
@@ -44,14 +45,14 @@
 * Trim and Padding
 * Recap and Q\&A
 
-#### Day 4 - Control Structrues&#x20;
+#### Day 4 - Control Structures&#x20;
 
 * Review
 * Flow Control Intro
 * Branching and Looping
 * Branching with If, If-Else, Else-If
 * Branching with Switch statement and Switch expression
-* Loops with For, ForEach, While, Do-While
+* Loops with Do-While, While, For, ForEach
 * Recap and Q\&A
 
 #### Day 5 - Hands-On Data Types
@@ -61,26 +62,52 @@
 * Date types ( `DateTime` ,`DateOnly` , `DateTimeOffset`  ) -
 * Unique Id type - Guid
 * Big numerics type - BigInteger
+* Object collection type - Array
 * Head and Scope
 * Variable scope
-* Conversion between types
-* Parsing from string
-*
+* Conversion between types and Parsing
+* Boxing and Unboxing
+* Implicit and Explicit casting
+* Array and Collections intro
+* Arithmetic, Assignment, Comparison, Logical, Bitwise Operators and Operands
 * Recap and Q\&A
 
 
 
 ## Week 2
 
-#### Day 1
+#### Day 1 - Hands-On String Operations
 
-#### Day 2
+* Review&#x20;
+* String, String Builder and String Pool
+* Regular Expression
+* String Encoding and Decoding
+* Date Formatting for String
+* Recap and Q\&A
 
-#### Day 3
+#### Day 2 - Hands-On Control Structures
+
+* Review&#x20;
+* Nested Control Structures and How to fix&#x20;
+* Exceptions and Catching Exceptions
+* Advanced Pattern Matching
+* Recap and Q\&A
+
+#### Day 3 - .NET Internals&#x20;
+
+* Review&#x20;
+* CTS, CLS, CLR, IL
+* Compiling, Decompiling, JIT
+* Version control basics
+* Recap and Q\&A
 
 #### Day 4
 
+*
+
 #### Day 5
+
+*
 
 
 
