@@ -1,5 +1,7 @@
 # Level II
 
+<figure><img src="../.gitbook/assets/Screenshot 2023-07-09 173327.png" alt=""><figcaption></figcaption></figure>
+
 ## Week 11
 
 <details>
@@ -814,9 +816,15 @@
 
 
 
+* c# features and patterns
+*
 * testing
 * unit testing
 * integration testing
+* socket
+* web hook
+* polling
+* signal R
 *
 
 

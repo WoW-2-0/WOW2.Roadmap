@@ -159,6 +159,7 @@
 <!---->
 
 * .NET SDK and .NET Runtime
+* Assembly and DLL
 
 <!---->
 
