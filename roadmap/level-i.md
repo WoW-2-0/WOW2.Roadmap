@@ -413,7 +413,7 @@
 
 <details>
 
-<summary>Day 5 - Hands-On Collections</summary>
+<summary>Day 5 - Hands-On Collections 1</summary>
 
 
 
@@ -515,16 +515,21 @@
 
 <details>
 
-<summary>Day 4 - Hands-On OOP 2</summary>
+<summary>Day 4 - Hands-On OOP 3</summary>
 
 * Review
+* Pattern Matching with objects
+* Defining indexers
+* Copy vs Clone
+* Deep Copy and Shallow Copy
+* Record, Struct and Enum
 * Recap and Q\&A
 
 </details>
 
 <details>
 
-<summary>Day 5 </summary>
+<summary>Day 5 - Hands-On Concurrency</summary>
 
 * Review
 * Recap and Q\&A
@@ -535,7 +540,22 @@
 
 <details>
 
-<summary>Day 1</summary>
+<summary>Day 1 - Hands-On Collections 3</summary>
+
+* Review
+* Aggregation
+* Index-based access
+* Grouping
+* Projection and Conversion
+* Combining and Joining
+* Conversion and Materialization
+* Recap and Q\&A
+
+</details>
+
+<details>
+
+<summary>Day 2 - Delegates and Events</summary>
 
 * Review
 * Recap and Q\&A
@@ -544,7 +564,7 @@
 
 <details>
 
-<summary>Day 2</summary>
+<summary>Day 3 - LINQ</summary>
 
 * Review
 * Recap and Q\&A
@@ -553,7 +573,7 @@
 
 <details>
 
-<summary>Day 3</summary>
+<summary>Day 4 - </summary>
 
 * Review
 * Recap and Q\&A
@@ -562,16 +582,7 @@
 
 <details>
 
-<summary>Day 4</summary>
-
-* Review
-* Recap and Q\&A
-
-</details>
-
-<details>
-
-<summary>Day 5</summary>
+<summary>Day 5 - </summary>
 
 * Review
 * Recap and Q\&A
