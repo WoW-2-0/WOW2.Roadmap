@@ -591,92 +591,199 @@
 
 ## Week 6
 
-#### Day 1
+<details>
+
+<summary>Day 1</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 2
+</details>
+
+<details>
+
+<summary>Day 2</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 3
+</details>
+
+<details>
+
+<summary>Day 3</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 4
+</details>
+
+<details>
+
+<summary>Day 4</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 5
+</details>
+
+<details>
+
+<summary>Day 5</summary>
 
 * Review
 * Recap and Q\&A
 
-
+</details>
 
 ## Week 7
 
-#### Day 1
+<details>
+
+<summary>Day 1</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 2
+</details>
+
+<details>
+
+<summary>Day 2</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 3
+</details>
+
+<details>
+
+<summary>Day 3</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 4
+</details>
+
+<details>
+
+<summary>Day 4</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 5
+</details>
+
+<details>
+
+<summary>Day 5</summary>
 
 * Review
 * Recap and Q\&A
 
-
+</details>
 
 ## Week 8
 
-#### Day 1
+<details>
+
+<summary>Day 1</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 2
+</details>
+
+<details>
+
+<summary>Day 2</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 3
+</details>
+
+<details>
+
+<summary>Day 3</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 4
+</details>
+
+<details>
+
+<summary>Day 4</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 5
+</details>
+
+<details>
+
+<summary>Day 5</summary>
 
 * Review
+*
+*
+*
+*
 * Recap and Q\&A
 
-
+</details>
 
 ## Week 9
+
+<details>
+
+<summary>Day 1</summary>
+
+* Review
+* Recap and Q\&A
+
+</details>
+
+<details>
+
+<summary>Day 2</summary>
+
+* Review
+* Recap and Q\&A
+
+</details>
+
+<details>
+
+<summary>Day 3</summary>
+
+* Review
+* Recap and Q\&A
+
+</details>
+
+<details>
+
+<summary>Day 4</summary>
+
+* Review
+* Recap and Q\&A
+
+</details>
+
+<details>
+
+<summary>Day 5</summary>
+
+* Review
+*
+*
+*
+*
+* Recap and Q\&A
+
+</details>
 
 #### Day 1
 
