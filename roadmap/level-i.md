@@ -205,6 +205,7 @@
 <!---->
 
 * Custom types - Class and Interface
+* Class and System.Object Relationship
 
 <!---->
 
@@ -234,7 +235,7 @@
 
 <details>
 
-<summary>Day 5 - OOP principles</summary>
+<summary>Day 5 - Hands-On OOP 1</summary>
 
 
 
@@ -344,7 +345,7 @@
 
 <details>
 
-<summary>Day 3 - Hands-On OOP 1</summary>
+<summary>Day 3 - Hands-On OOP 2</summary>
 
 
 
@@ -376,7 +377,7 @@
 
 <!---->
 
-* Class types  - static, selaed, abstract, partial
+* Class types  - static, sealed, abstract, partial
 
 <!---->
 
@@ -514,7 +515,7 @@
 
 <details>
 
-<summary>Day 4</summary>
+<summary>Day 4 - Hands-On OOP 2</summary>
 
 * Review
 * Recap and Q\&A
