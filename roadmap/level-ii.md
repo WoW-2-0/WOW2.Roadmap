@@ -2,61 +2,97 @@
 
 ## Week 11
 
-#### Day 1
+<details>
+
+<summary>Day 1</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 2
+</details>
+
+<details>
+
+<summary>Day 2</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 3
+</details>
+
+<details>
+
+<summary>Day 3</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 4
+</details>
+
+<details>
+
+<summary>Day 4</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 5
+</details>
+
+<details>
+
+<summary>Day 5</summary>
 
 * Review
 * Recap and Q\&A
 
-
+</details>
 
 ## Week 12
 
-#### Day 1
+<details>
+
+<summary>Day 1</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 2
+</details>
+
+<details>
+
+<summary>Day 2</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 3
+</details>
+
+<details>
+
+<summary>Day 3</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 4
+</details>
+
+<details>
+
+<summary>Day 4</summary>
 
 * Review
 * Recap and Q\&A
 
-#### Day 5
+</details>
+
+<details>
+
+<summary>Day 5</summary>
 
 * Review
 * Recap and Q\&A
 
-
+</details>
 
 ## Week 13
 
