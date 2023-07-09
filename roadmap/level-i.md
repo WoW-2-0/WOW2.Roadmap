@@ -810,7 +810,7 @@
 * Designing Resource URL -&#x20;
 * REST conventions
 * Resource representation
-* CRUD Operations
+*
 * Entity Relationship
 * Recap and Q\&A
 
@@ -827,9 +827,9 @@
 * Creating Models in Web API
 * HTTP Protocol and HTTPS
 * HTTP methods
-*
 * Controllers and Endpoints
-*
+* Request and Response formats
+* HTTP Request and Response breakdown
 * Recap and Q\&A
 
 </details>
@@ -846,13 +846,15 @@
 
 <details>
 
-<summary>Day 5</summary>
+<summary>Day 5 - CRUD Operations</summary>
 
 * Review
+* Creating Controllers with REST convention
 *
-*
-*
-*
+* CRUD Operations
+* Model Validation
+* Pagination -&#x20;
+* Filtering -&#x20;
 * Recap and Q\&A
 
 </details>
