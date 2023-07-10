@@ -109,28 +109,11 @@
 
 <summary>Day 1 - Hands-On String Operations</summary>
 
-
-
 * Review&#x20;
-
-<!---->
-
 * String, String Builder and String Pool
-
-<!---->
-
 * Regular Expression
-
-<!---->
-
 * String Encoding and Decoding
-
-<!---->
-
 * Date Formatting for String
-
-<!---->
-
 * Recap and Q\&A
 
 </details>
@@ -152,41 +135,13 @@
 
 <summary>Day 3 - .NET Internals </summary>
 
-
-
 * Review&#x20;
-
-<!---->
-
 * CTS, CLS, CLR, IL
-
-<!---->
-
 * .NET Framework, .NET Core and .NET Standard
-
-<!---->
-
 * .NET SDK and .NET Runtime
 * Assembly and DLL
-
-<!---->
-
 * Compiling, Decompiling, JIT
-
-<!---->
-
-* C# vocabulary
-
-<!---->
-
-* Code Syntax and Comments
-
-<!---->
-
 * Debugging&#x20;
-
-<!---->
-
 * Recap and Q\&A
 
 </details>
@@ -195,39 +150,15 @@
 
 <summary>Day 4 - OOP Intro</summary>
 
-
-
 * Review&#x20;
-*
-
-<!---->
-
 * Custom types - Class and Interface
 * Class and Object
 * Class and System.Object Relationship
-
-<!---->
-
 * Inheritance in brief
-
-<!---->
-
 * Encapsulation in brief
-
-<!---->
-
 * Abstraction in brief
-
-<!---->
-
 * Polymorphism in brief
-
-<!---->
-
 * Interface and Abstract Class
-
-<!---->
-
 * Recap and Q\&A
 
 </details>
@@ -236,41 +167,15 @@
 
 <summary>Day 5 - Hands-On OOP 1</summary>
 
-
-
 * Review
-
-<!---->
-
 * Class Data Members - Field, Property, Getter and Setter
-
-<!---->
-
 * Class Behavior Members - Constructor, Finalizer, Methods
-
-<!---->
-
 * Advanced Methods - Parameters ( Named, Optional ), Signature and Return value
-
-<!---->
-
 * Inheritance and Model Relationship -&#x20;
 * Base and Child vocabulary -&#x20;
-
-<!---->
-
 * Inheritance Types -&#x20;
-
-<!---->
-
 * Encapsulation - Access Modifiers
-
-<!---->
-
 * Encapsulation Types -&#x20;
-
-<!---->
-
 * Recap and Q\&A
 
 </details>
