@@ -4,7 +4,11 @@
 
 <table><thead><tr><th width="193.33333333333331">Platform</th><th width="185">LLA</th><th width="184">ILA</th><th>HLA</th></tr></thead><tbody><tr><td>C# Advanced Features</td><td>Framework Patterns</td><td>Common Components</td><td>System Design Fundamentals</td></tr><tr><td>C# Patterns and Principles</td><td></td><td></td><td>Deployment</td></tr><tr><td>Typescript Intro</td><td></td><td></td><td></td></tr></tbody></table>
 
-##
+
+
+
+
+* c# current and upcoming features
 
 ## Week 11
 
@@ -837,7 +841,17 @@
 * web hook
 * polling
 * signal R
-*
+
+
+
+
+
+orm&#x20;
+
+* ef core
+* dapper
+* n hibernate
+* linq 2 sql
 
 
 
