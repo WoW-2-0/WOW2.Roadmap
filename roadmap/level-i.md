@@ -482,39 +482,15 @@
 
 <details>
 
-<summary>Day 3 - Speaking C#</summary>
-
-
+<summary>Day 3 - Speaking C# 1</summary>
 
 * Review
-
-<!---->
-
 * Statements and Comments
-
-<!---->
-
 * Block and Scope
-
-<!---->
-
 * C# vocabulary
-
-<!---->
-
 * Global namespaces
-
-<!---->
-
 * Code Syntax
-
-<!---->
-
 * Verbs and Nouns
-*
-
-<!---->
-
 * Recap and Q\&A
 
 </details>
@@ -578,21 +554,22 @@
 
 <details>
 
-<summary>Day 3 - LINQ</summary>
+<summary>Day 3 - Speaking C# 2</summary>
 
 * Review
+* Documentation
+* Comments
+* Convention and Standards
 * Recap and Q\&A
 
 </details>
 
 <details>
 
-<summary>Day 4 - Speaking C# 2</summary>
+<summary>Day 4 - Speaking C# 3</summary>
 
 * Review
-* Comments
-* Documentation
-* Convention and Standards
+* Refactoring
 * Principle and Pattern intro
 * Recap and Q\&A
 
