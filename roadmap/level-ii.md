@@ -10,11 +10,17 @@
 
 * c# current and upcoming features
 
+Checked/Unchecked and Managed/Unmanaged
+
+
+
+
+
 ## Week 11
 
 <details>
 
-<summary>Day 1</summary>
+<summary>Day 1 - ORM</summary>
 
 * Review
 * Recap and Q\&A

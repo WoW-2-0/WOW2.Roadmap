@@ -150,7 +150,7 @@
 
 <details>
 
-<summary>Day 3 - .NET Internals  and Version Control</summary>
+<summary>Day 3 - .NET Internals </summary>
 
 
 
@@ -183,7 +183,7 @@
 
 <!---->
 
-* Version control basics
+* Debugging&#x20;
 
 <!---->
 
@@ -430,6 +430,8 @@
 
 </details>
 
+***
+
 ## Week 4
 
 <details>
@@ -509,6 +511,7 @@
 <!---->
 
 * Verbs and Nouns
+*
 
 <!---->
 
@@ -867,16 +870,18 @@ Encoding and Decoding -  [Encoding](http://localhost:5000/s/pAIkBYdoE7jJ3IQpTNmO
 
 <details>
 
-<summary>Day 1 - </summary>
+<summary>Day 1 - Dependency Injection</summary>
 
 * Review
 * Dependency Injection
 * Built-In Dependency Injection
-* Dependency Injectino &#x20;
-* Middleware Order
+* Registration Methods &#x20;
+* Service Lifetimes
+*
+
+<!---->
+
 * Recap and Q\&A
-
-
 
 #### Practice
 
@@ -886,10 +891,22 @@ Encoding and Decoding -  [Encoding](http://localhost:5000/s/pAIkBYdoE7jJ3IQpTNmO
 
 <details>
 
-<summary>Day 2 - </summary>
+<summary>Day 2 - Configuration</summary>
 
 * Review
+* Environment
+* Configuration
+* Configuration Providers
+* Configuration Overriding
+* Environment Specific Configuration
+* Configuration Binding
+* Options Pattern
+* User Secrets
+
+<!---->
+
 * Recap and Q\&A
+*
 
 
 
@@ -899,76 +916,214 @@ Encoding and Decoding -  [Encoding](http://localhost:5000/s/pAIkBYdoE7jJ3IQpTNmO
 
 <details>
 
-<summary>Day 3</summary>
-
-* Review
-* Recap and Q\&A
-
-</details>
-
-<details>
-
-<summary>Day 4</summary>
-
-* Review
-* Recap and Q\&A
-
-</details>
-
-<details>
-
-<summary>Day 5</summary>
+<summary>Day 3 Middleware</summary>
 
 * Review
 *
-*
-*
-*
-* Recap and Q\&A
-
-</details>
-
-
-
-
-
-* Review
 * Request Pipeline
-
-
-
 * Middleware
 * Middleware Order
+* Built-in Middleware
+* Recap and Q\&A
+
+</details>
+
+<details>
+
+<summary>Day 4 Hands-On Dependency Injection</summary>
+
+* Review
+* Injection of services inside other services
+* Service lifecycle best practices
+* Injection of services in DI registration
+* Injection of services in Middleware
+* Recap and Q\&A
+
+</details>
+
+<details>
+
+<summary>Day 5 Hands-On Configuration</summary>
+
+* Review
+
+<!---->
+
+* Configuration with primitive types
+* Configuration with collection types
+*
+* Recap and Q\&A
+
+</details>
 
 
+
+## Week 11
+
+<details>
+
+<summary>Day 1 - Hands-On Middleware</summary>
+
+* Review
+* Creating Custom Middleware
+* Middleware Best Practices
+
+<!---->
 
 * Recap and Q\&A
 
-Level I
+#### Practice
 
 
 
-* Web API
-* Multitasking
-* Architecture
-* Task vs Thread
-* Checked/Unchecked and Managed/Unmanaged
-* HTTP Basics and Conventions
+</details>
+
+<details>
+
+<summary>Day 2 - Filters</summary>
+
+* Review
 *
 
+<!---->
 
+* Recap and Q\&A
 
-*
-
-
-
-
-
+#### Practice
 
 
 
+</details>
+
+<details>
+
+<summary>Day 3 Endpoint Middleware</summary>
+
+* Review
+
+<!---->
+
+* Recap and Q\&A
+
+#### Practice
 
 
+
+</details>
+
+<details>
+
+<summary>Day 4 - File Management</summary>
+
+* Review
+
+<!---->
+
+* Recap and Q\&A
+
+#### Practice
+
+
+
+</details>
+
+<details>
+
+<summary>Day 5 Hands-On Filters</summary>
+
+* Review
+
+<!---->
+
+* Recap and Q\&A
+
+#### Practice
+
+
+
+</details>
+
+## Week 12
+
+<details>
+
+<summary>Day 1 - Routing</summary>
+
+* Review
+
+<!---->
+
+* Recap and Q\&A
+
+#### Practice
+
+
+
+</details>
+
+<details>
+
+<summary>Day 2 - Error Handling</summary>
+
+* Review
+
+<!---->
+
+* Recap and Q\&A
+
+#### Practice
+
+
+
+</details>
+
+<details>
+
+<summary>Day 3 - Hands-On File Management</summary>
+
+* Review
+
+<!---->
+
+* Recap and Q\&A
+
+#### Practice
+
+
+
+</details>
+
+<details>
+
+<summary>Day 4 - Hands-On Routing</summary>
+
+* Review
+
+<!---->
+
+* Recap and Q\&A
+
+#### Practice
+
+
+
+</details>
+
+<details>
+
+<summary>Day 5 - Practice Project</summary>
+
+* Review
+
+<!---->
+
+* Recap and Q\&A
+
+#### Practice
+
+
+
+</details>
 
 * Reflections, Expressions and
 
