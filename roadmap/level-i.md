@@ -325,12 +325,13 @@
 
 <summary>Day 5 - Hands-On Collections 1</summary>
 
-
-
 * Review
-
-<!---->
-
+* Adding operations
+* Ensuring operations
+* Finding one element
+* Index based access
+* Clearing operations
+* Conversion
 * Recap and Q\&A
 
 </details>
