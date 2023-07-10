@@ -12,6 +12,8 @@
 
 <summary>Day 1 - Introduction</summary>
 
+Presentation [**link**](https://www.canva.com/design/DAFmo61--EM/h-Q-YH8SzLOBJWD60wHLOw/edit?utm\_content=DAFmo61--EM\&utm\_campaign=designshare\&utm\_medium=link2\&utm\_source=sharebutton)
+
 * Intro to .NET Platform - [Intro](http://localhost:5000/s/FJcmrqDwKjqKEVudQzXM/ "mention")
 * Solutions by .NET - [Solutions by .NET](http://localhost:5000/s/FJcmrqDwKjqKEVudQzXM/solutions-by-.net "mention")
 * Environment Setup - [SDK](http://localhost:5000/s/L9ELpa76zRfOR7Cndiki/ "mention") and [IDE](http://localhost:5000/s/L9ELpa76zRfOR7Cndiki/ide "mention")
