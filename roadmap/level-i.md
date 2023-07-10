@@ -846,7 +846,7 @@
 
 <details>
 
-<summary>Day 5 - CRUD Operations</summary>
+<summary>Day 5 - Hands-On Web API</summary>
 
 * Review
 * Creating Controllers with REST convention
@@ -867,19 +867,33 @@ Encoding and Decoding -  [Encoding](http://localhost:5000/s/pAIkBYdoE7jJ3IQpTNmO
 
 <details>
 
-<summary>Day 1</summary>
+<summary>Day 1 - </summary>
 
 * Review
+* Dependency Injection
+* Built-In Dependency Injection
+* Dependency Injectino &#x20;
+* Middleware Order
 * Recap and Q\&A
+
+
+
+#### Practice
+
+
 
 </details>
 
 <details>
 
-<summary>Day 2</summary>
+<summary>Day 2 - </summary>
 
 * Review
 * Recap and Q\&A
+
+
+
+#### Practice
 
 </details>
 
@@ -918,11 +932,17 @@ Encoding and Decoding -  [Encoding](http://localhost:5000/s/pAIkBYdoE7jJ3IQpTNmO
 
 
 
+* Review
+* Request Pipeline
 
 
 
+* Middleware
+* Middleware Order
 
 
+
+* Recap and Q\&A
 
 Level I
 
