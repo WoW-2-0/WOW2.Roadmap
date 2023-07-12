@@ -32,9 +32,9 @@ Presentation [**link**](https://www.canva.com/design/DAFmo61--EM/h-Q-YH8SzLOBJWD
 
 * Review
 * Version Control Basics - [Git Basics](http://localhost:5000/s/L9ELpa76zRfOR7Cndiki/version-control/git-basics "mention")
-* Definition and Instantiation - [Definition and Instantiation](http://localhost:5000/s/EQ6EmSeScPe6ab3ndFH0/ "mention")
-* Console Input and Output - [Console Input and Output](http://localhost:5000/s/EQ6EmSeScPe6ab3ndFH0/console-input-and-output "mention")
-* Read and Write operation - [Read from and Write to variables](http://localhost:5000/s/EQ6EmSeScPe6ab3ndFH0/read-from-and-write-to-variables "mention")
+* Definition and Instantiation - [Definition and Instantiation](http://localhost:5000/s/EQ6EmSeScPe6ab3ndFH0/variables/definition-and-instantiation "mention")
+* Console Input and Output - [Broken link](broken-reference "mention")
+* Read and Write operation - [Read from and Write to variables](http://localhost:5000/s/EQ6EmSeScPe6ab3ndFH0/variables/read-from-and-write-to-variables "mention")
 * Definition and Initialization
 * Digit Separator, Literal Values and Default Values
 * Explicit and Implicit Typing
@@ -52,7 +52,6 @@ Presentation [**link**](https://www.canva.com/design/DAFmo61--EM/h-Q-YH8SzLOBJWD
 <summary>Day 3 - String Operations</summary>
 
 * Review
-* Version Control Basics
 * Concatenation
 * Escape Characters and Verbatim String
 * Interpolation and Formatting
@@ -229,7 +228,7 @@ Presentation [**link**](https://www.canva.com/design/DAFmo61--EM/h-Q-YH8SzLOBJWD
 <!---->
 
 * Collections
-* Built-In Collection - [Built-In Collections](http://localhost:5000/s/EQ6EmSeScPe6ab3ndFH0/collections/built-in-collections "mention")
+* Built-In Collection - [Broken link](broken-reference "mention")
 
 <!---->
 
