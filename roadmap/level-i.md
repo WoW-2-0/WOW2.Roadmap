@@ -42,6 +42,7 @@ Presentation [**link**](https://www.canva.com/design/DAFmo61--EM/h-Q-YH8SzLOBJWD
 * Value and Reference Types
 * Static and Dynamic Types
 * Built-In and Custom Types
+* Arrays
 * Hierarchy between types and System.Object
 * Recap and Q\&A
 
