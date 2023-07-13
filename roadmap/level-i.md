@@ -97,11 +97,7 @@ Presentation [**link**](https://www.canva.com/design/DAFmo61--EM/h-Q-YH8SzLOBJWD
 * Casting, Conversion and&#x20;
 * Implicit and Explicit casting
 * Boxing and Unboxing
-
-<!---->
-
-* Array and Collections intro
-* Arithmetic, Assignment, Comparison, Logical, Bitwise Operators and Operands
+* Array and Collections introArithmetic, Assignment, Comparison, Logical, Bitwise Operators and Operands
 * Recap and Q\&A
 
 </details>
