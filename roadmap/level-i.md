@@ -14,14 +14,14 @@
 
 Presentation [**link**](https://www.canva.com/design/DAFmo61--EM/h-Q-YH8SzLOBJWD60wHLOw/edit?utm\_content=DAFmo61--EM\&utm\_campaign=designshare\&utm\_medium=link2\&utm\_source=sharebutton)
 
-* Intro to .NET Platform - [Intro](http://localhost:5000/s/FJcmrqDwKjqKEVudQzXM/ "mention")
-* Solutions by .NET - [Solutions by .NET](http://localhost:5000/s/FJcmrqDwKjqKEVudQzXM/solutions-by-.net "mention")
-* Environment Setup - [SDK](http://localhost:5000/s/L9ELpa76zRfOR7Cndiki/ "mention") and [IDE](http://localhost:5000/s/L9ELpa76zRfOR7Cndiki/ide "mention")
-* Creating simple console app - [Creating Simple Console App](http://localhost:5000/s/lYB0jf1P1bcsX5w3QerY/console-project/creating-simple-console-app "mention")
+* Intro to .NET Platform - [Intro](http://127.0.0.1:5000/s/FJcmrqDwKjqKEVudQzXM/ "mention")
+* Solutions by .NET - [Solutions by .NET](http://127.0.0.1:5000/s/FJcmrqDwKjqKEVudQzXM/solutions-by-.net "mention")
+* Environment Setup - [SDK](http://127.0.0.1:5000/s/L9ELpa76zRfOR7Cndiki/ "mention") and [IDE](http://127.0.0.1:5000/s/L9ELpa76zRfOR7Cndiki/ide "mention")
+* Creating simple console app - [Creating Simple Console App](http://127.0.0.1:5000/s/lYB0jf1P1bcsX5w3QerY/console-project/creating-simple-console-app "mention")
 * Solution, Project, Namespace -&#x20;
 * Built files -&#x20;
-* Environment Setup 2 - [Version Control](http://localhost:5000/s/L9ELpa76zRfOR7Cndiki/version-control "mention") and [Git Setup](http://localhost:5000/s/L9ELpa76zRfOR7Cndiki/version-control/git-setup "mention")
-* Searching and Learning Resources - [Searching Resources](http://localhost:5000/s/wpbnYiHefP0V0pfjLpxt/ "mention") and [Learning Resources](http://localhost:5000/s/wpbnYiHefP0V0pfjLpxt/learning-resources "mention")
+* Environment Setup 2 - [Version Control](http://127.0.0.1:5000/s/L9ELpa76zRfOR7Cndiki/version-control "mention") and [Git Setup](http://127.0.0.1:5000/s/L9ELpa76zRfOR7Cndiki/version-control/git-setup "mention")
+* Searching and Learning Resources - [Searching Resources](http://127.0.0.1:5000/s/wpbnYiHefP0V0pfjLpxt/ "mention") and [Learning Resources](http://127.0.0.1:5000/s/wpbnYiHefP0V0pfjLpxt/learning-resources "mention")
 * Recap and Q\&A
 
 </details>
@@ -31,10 +31,10 @@ Presentation [**link**](https://www.canva.com/design/DAFmo61--EM/h-Q-YH8SzLOBJWD
 <summary>Day 2 - Data and Project Types</summary>
 
 * Review
-* Version Control Basics - [Git Basics](http://localhost:5000/s/L9ELpa76zRfOR7Cndiki/version-control/git-basics "mention")
-* Definition and Instantiation - [Definition and Instantiation](http://localhost:5000/s/EQ6EmSeScPe6ab3ndFH0/variables/definition-and-instantiation "mention")
+* Version Control Basics - [Git Basics](http://127.0.0.1:5000/s/L9ELpa76zRfOR7Cndiki/version-control/git-basics "mention")
+* Definition and Instantiation - [Definition and Instantiation](http://127.0.0.1:5000/s/EQ6EmSeScPe6ab3ndFH0/variables/definition-and-instantiation "mention")
 * Console Input and Output - [Broken link](broken-reference "mention")
-* Read and Write operation - [Read from and Write to variables](http://localhost:5000/s/EQ6EmSeScPe6ab3ndFH0/variables/read-from-and-write-to-variables "mention")
+* Read and Write operation - [Read from and Write to variables](http://127.0.0.1:5000/s/EQ6EmSeScPe6ab3ndFH0/variables/read-from-and-write-to-variables "mention")
 * Definition and Initialization
 * Digit Separator, Literal Values and Default Values
 * Explicit and Implicit Typing
@@ -57,7 +57,7 @@ Presentation [**link**](https://www.canva.com/design/DAFmo61--EM/h-Q-YH8SzLOBJWD
 * Escape Characters and Verbatim String
 * Interpolation and Formatting
 * Length, Indexing and Substring
-* Splitting and Joining
+* Splitting and Joining&#x20;
 * Cases, Case Conversion
 * Comparison and Equality
 * Searching
@@ -65,19 +65,48 @@ Presentation [**link**](https://www.canva.com/design/DAFmo61--EM/h-Q-YH8SzLOBJWD
 * Trim and Padding
 * Recap and Q\&A
 
+
+
+1. Task: Write a program that reads a paragraph of text from a file. Perform the following operations:
+   * Split the paragraph into individual sentences.
+   * Convert all the sentences to lowercase.
+   * Search for a specific word entered by the user in the sentences and display the count of its occurrences.
+   * Replace all occurrences of the word with another word provided by the user.
+   * Trim any leading or trailing whitespace from each sentence.
+   * Join the modified sentences back together with a space as the delimiter.
+   * Display the final modified paragraph.
+2. Task: Implement a program that reads a list of email addresses from a file. Perform the following operations:
+   * Split each email address into the local part and the domain part.
+   * Convert the local part to lowercase and the domain part to uppercase.
+   * Compare two email addresses to check for equality and display a message indicating whether they are the same or different.
+   * Search for a specific domain entered by the user and display all the email addresses that belong to that domain.
+   * Replace the domain part of each email address with a new domain provided by the user.
+   * Trim any whitespace characters from each email address.
+   * Join the modified email addresses back together with a comma as the delimiter.
+   * Display the final modified list of email addresses.
+3. Task: Create a program that prompts the user to enter a sentence. Perform the following operations:
+   * Convert the sentence to title case, capitalizing the first letter of each word and converting the rest to lowercase.
+   * Split the sentence into individual words.
+   * Search for a specific word entered by the user and display the positions of its occurrences.
+   * Replace all occurrences of the word with another word provided by the user.
+   * Trim any leading or trailing whitespace from each word.
+   * Join the modified words back together with a hyphen as the delimiter.
+   * Display the final modified sentence.
+
 </details>
 
 <details>
 
-<summary>Day 4 - Control Structures </summary>
+<summary>Day 4 - Control Structures</summary>
 
 * Review
 * Flow Control Intro
 * Branching and Looping
-* Branching with If, If-Else, Else-If
+* Branching with If, If-Else, Else-If, Nested if
 * Branching with Switch statement and Switch expression
 * Flow control with continue and break
-* Loops with Do-While, While, For, ForEach
+* Loops with Do-While, While, For, For Each
+* Pattern matching - Declaration, Logical, Relational - [Pattern Matching](http://127.0.0.1:5000/o/cncGNMEslMUW34fhoxqJ/s/hgPiaeie9sbL3ybCyr9z/ "mention")
 * Recap and Q\&A
 
 </details>
@@ -87,18 +116,54 @@ Presentation [**link**](https://www.canva.com/design/DAFmo61--EM/h-Q-YH8SzLOBJWD
 <summary>Day 5 - Hands-On Data Types</summary>
 
 * Review
-* Constants and Variables -&#x20;
-* Date types ( `DateTime` ,`DateOnly` , `DateTimeOffset`  ) -
-* Unique Id type - Guid
-* Big numerics type - BigInteger
-* Object collection type - Array
-* Head and Scope
-* Variable scope
-* Casting, Conversion and&#x20;
+* Constants and Variables -
+* Date types ( `DateTime` ,`DateOnly` , `TimeOnly`, `DateTimeOffset` ) - [Date Types](http://127.0.0.1:5000/s/EQ6EmSeScPe6ab3ndFH0/date-types "mention")
+
+<!---->
+
+* Unique Id type - Guid -  [Unique Identifier](http://127.0.0.1:5000/s/EQ6EmSeScPe6ab3ndFH0/unique-identifier "mention")
+* Big numerics type - BigInteger -&#x20;
+* Object collection type - Array -&#x20;
+
+<!---->
+
+* Variable scope -&#x20;
+* Casting, Conversion and Parsing
 * Implicit and Explicit casting
+* Arrays Operations -&#x20;
+* Tuples and Pattern matching with Tuples - [Pattern matching with Tuples](http://127.0.0.1:5000/s/hgPiaeie9sbL3ybCyr9z/pattern-matching-with-tuples "mention")
 * Boxing and Unboxing
-* Array and Collections introArithmetic, Assignment, Comparison, Logical, Bitwise Operators and Operands
+* Array and Collections intro&#x20;
+* Arithmetic, Assignment, Comparison, Logical, Bitwise Operators and Operands
 * Recap and Q\&A
+
+
+
+Practice
+
+* Date types
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </details>
 
@@ -742,7 +807,7 @@ Presentation [**link**](https://www.canva.com/design/DAFmo61--EM/h-Q-YH8SzLOBJWD
 
 
 
-Encoding and Decoding -  [Encoding](http://localhost:5000/s/pAIkBYdoE7jJ3IQpTNmO/encoding "mention") and [Decoding](http://localhost:5000/s/pAIkBYdoE7jJ3IQpTNmO/encoding/decoding "mention")
+Encoding and Decoding -  [Encoding](http://127.0.0.1:5000/s/pAIkBYdoE7jJ3IQpTNmO/encoding "mention") and [Decoding](http://127.0.0.1:5000/s/pAIkBYdoE7jJ3IQpTNmO/encoding/decoding "mention")
 
 ## Week 10
 
