@@ -116,32 +116,31 @@ Presentation [**link**](https://www.canva.com/design/DAFmo61--EM/h-Q-YH8SzLOBJWD
 <summary>Day 5 - Hands-On Data Types</summary>
 
 * Review
+* Arithmetic, Assignment, Comparison, Logical, Bitwise Operators and Operands
 * Constants and Variables -
-* Date types ( `DateTime` ,`DateOnly` , `TimeOnly`, `DateTimeOffset` ) - [Date Types](http://127.0.0.1:5000/s/EQ6EmSeScPe6ab3ndFH0/date-types "mention")
-
-<!---->
-
+* Date types ( `DateTime` ,`DateOnly` , `TimeOnly`, `DateTimeOffset` , `TimeSpan`) - [Date Types](http://127.0.0.1:5000/s/EQ6EmSeScPe6ab3ndFH0/date-types "mention")
 * Unique Id type - Guid -  [Unique Identifier](http://127.0.0.1:5000/s/EQ6EmSeScPe6ab3ndFH0/unique-identifier "mention")
 * Big numerics type - BigInteger -&#x20;
 * Object collection type - Array -&#x20;
-
-<!---->
-
 * Variable scope -&#x20;
 * Casting, Conversion and Parsing
+* Widening, Narrowing
 * Implicit and Explicit casting
 * Arrays Operations -&#x20;
-* Tuples and Pattern matching with Tuples - [Pattern matching with Tuples](http://127.0.0.1:5000/s/hgPiaeie9sbL3ybCyr9z/pattern-matching-with-tuples "mention")
 * Boxing and Unboxing
+* Tuples and Pattern matching with Tuples - [Pattern matching with Tuples](http://127.0.0.1:5000/s/hgPiaeie9sbL3ybCyr9z/pattern-matching-with-tuples "mention")
 * Array and Collections intro&#x20;
-* Arithmetic, Assignment, Comparison, Logical, Bitwise Operators and Operands
 * Recap and Q\&A
-
-
 
 Practice
 
 * Date types
+  * `DateOnly` - birthday calendar - simple arary with DateOnly, sort the array
+  * `TimeSpan` - exam time recorder
+  * `TimeOnly` - daily scheduler - simple array with TimeOnly, sort the array
+  * `DateTime` - even calendar - simple array with DateTime, sort the array
+  * `DateTimeOffset` - message database -&#x20;
+*
 
 
 
