@@ -46,6 +46,12 @@ Presentation [**link**](https://www.canva.com/design/DAFmo61--EM/h-Q-YH8SzLOBJWD
 * Hierarchy between types and System.Object
 * Recap and Q\&A
 
+
+
+Practice&#x20;
+
+*
+
 </details>
 
 <details>
@@ -117,6 +123,7 @@ Presentation [**link**](https://www.canva.com/design/DAFmo61--EM/h-Q-YH8SzLOBJWD
 
 * Review
 * Arithmetic, Assignment, Comparison, Logical, Bitwise Operators and Operands
+*
 * Constants and Variables -
 * Date types ( `DateTime` ,`DateOnly` , `TimeOnly`, `DateTimeOffset` , `TimeSpan`) - [Date Types](http://127.0.0.1:5000/s/EQ6EmSeScPe6ab3ndFH0/date-types "mention")
 * Unique Id type - Guid -  [Unique Identifier](http://127.0.0.1:5000/s/EQ6EmSeScPe6ab3ndFH0/unique-identifier "mention")
@@ -133,6 +140,33 @@ Presentation [**link**](https://www.canva.com/design/DAFmo61--EM/h-Q-YH8SzLOBJWD
 * Recap and Q\&A
 
 Practice
+
+*   Array Operations
+
+
+
+    1. Accessing Elements: Accessing individual elements of an array by their index.
+    2. Modifying Elements: Modifying the value of an element at a specific index in the array.
+    3. Length: Retrieving the length or size of the array.
+    4. Iterating: Iterating over each element in the array using loops (for, foreach, while).
+    5. Sorting: Sorting the elements of an array in ascending or descending order.
+    6. Searching: Searching for a specific element in the array.
+    7. Adding Elements: Adding elements to an array, either at the end or at a specific index.
+    8. Removing Elements: Removing elements from an array, either from the end or at a specific index.
+    9. Copying: Copying elements from one array to another.
+    10. Merging: Merging two arrays into a single array.
+    11. Reversing: Reversing the order of elements in an array.
+    12. Subarrays: Extracting a portion of the array to form a new subarray.
+    13. Converting: Converting an array to other data structures or formats, such as a list or string.
+    14. Equality: Comparing two arrays to check if they have the same elements.
+    15. Empty Check: Checking if an array is empty (contains no elements).
+    16. Resizing: Resizing an array to increase or decrease its capacity.
+    17. Element Frequency: Counting the frequency of each element in an array.
+    18. Unique Elements: Finding the unique elements in an array.
+    19. Range Operations: Performing operations on a range of elements in an array, such as sum, average, or maximum/minimum.
+    20. Multidimensional Arrays: Working with arrays that have multiple dimensions, such as matrices or grids.
+
+<!---->
 
 * Date types
   * `DateOnly` - birthday calendar - simple arary with DateOnly, sort the array
