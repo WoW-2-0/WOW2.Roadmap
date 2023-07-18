@@ -126,8 +126,14 @@ Practice&#x20;
 
 * Review
 * Arithmetic, Assignment, Comparison, Logical, Bitwise Operators and Operands
-* Arrays Operations -&#x20;
-*
+* Operator Precedence
+
+<!---->
+
+* Arrays Operations - &#x20;
+
+<!---->
+
 * Constants and Variables -
 * Date types ( `DateTime` ,`DateOnly` , `TimeOnly`, `DateTimeOffset` , `TimeSpan`) - [Date Types](http://127.0.0.1:5000/s/EQ6EmSeScPe6ab3ndFH0/date-types "mention")
 * Unique Id type - Guid -  [Unique Identifier](http://127.0.0.1:5000/s/EQ6EmSeScPe6ab3ndFH0/unique-identifier "mention")
