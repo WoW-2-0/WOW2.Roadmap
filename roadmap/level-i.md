@@ -123,20 +123,20 @@ Practice&#x20;
 
 * Review
 * Arithmetic, Assignment, Comparison, Logical, Bitwise Operators and Operands
+* Arrays Operations -&#x20;
 *
 * Constants and Variables -
 * Date types ( `DateTime` ,`DateOnly` , `TimeOnly`, `DateTimeOffset` , `TimeSpan`) - [Date Types](http://127.0.0.1:5000/s/EQ6EmSeScPe6ab3ndFH0/date-types "mention")
 * Unique Id type - Guid -  [Unique Identifier](http://127.0.0.1:5000/s/EQ6EmSeScPe6ab3ndFH0/unique-identifier "mention")
-* Big numerics type - BigInteger -&#x20;
-* Object collection type - Array -&#x20;
-* Variable scope -&#x20;
-* Casting, Conversion and Parsing
-* Widening, Narrowing
-* Implicit and Explicit casting
-* Arrays Operations -&#x20;
-* Boxing and Unboxing
-* Tuples and Pattern matching with Tuples - [Pattern matching with Tuples](http://127.0.0.1:5000/s/hgPiaeie9sbL3ybCyr9z/pattern-matching-with-tuples "mention")
-* Array and Collections intro&#x20;
+  * Big numerics type - BigInteger -&#x20;
+  * Object collection type - Array -&#x20;
+  * Variable scope -&#x20;
+  * Casting, Conversion and Parsing
+  * Widening, Narrowing
+  * Implicit and Explicit casting
+  * Boxing and Unboxing
+  * Tuples and Pattern matching with Tuples - [Pattern matching with Tuples](http://127.0.0.1:5000/s/hgPiaeie9sbL3ybCyr9z/pattern-matching-with-tuples "mention")
+  * Array and Collections intro&#x20;
 * Recap and Q\&A
 
 Practice
