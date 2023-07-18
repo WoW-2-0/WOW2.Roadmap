@@ -112,7 +112,10 @@ Practice&#x20;
 * Branching with Switch statement and Switch expression
 * Flow control with continue and break
 * Loops with Do-While, While, For, For Each
-* Pattern matching - Declaration, Logical, Relational - [Pattern Matching](http://127.0.0.1:5000/o/cncGNMEslMUW34fhoxqJ/s/hgPiaeie9sbL3ybCyr9z/ "mention")
+* Pattern matching - Declaration and Type, Logical, Relational - [Pattern Matching](http://127.0.0.1:5000/s/hgPiaeie9sbL3ybCyr9z/ "mention"), [Logical Pattern](http://127.0.0.1:5000/s/hgPiaeie9sbL3ybCyr9z/logical-pattern "mention"), [Relational Pattern](http://127.0.0.1:5000/s/hgPiaeie9sbL3ybCyr9z/relational-pattern "mention")&#x20;
+
+<!---->
+
 * Recap and Q\&A
 
 </details>
@@ -352,6 +355,8 @@ Practice
 
 
 * Review
+* Conversion - is and as
+* Pattern Matching - Declaration and Type, Property Pattern -  [Property Pattern](http://127.0.0.1:5000/s/hgPiaeie9sbL3ybCyr9z/property-pattern "mention")
 
 <!---->
 
