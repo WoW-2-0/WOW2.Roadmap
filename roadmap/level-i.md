@@ -229,8 +229,7 @@ Practice
 <summary>Day 2 - Hands-On Control Structures</summary>
 
 * Review
-* Nested Control Structures and How to fix&#x20;
-* Branching with GoTo
+* Nested Control Structures and How to fix
 * Exceptions and Catching Exceptions
 * Advanced Pattern Matching
 * Recap and Q\&A
