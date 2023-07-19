@@ -238,22 +238,7 @@ Practice
 
 <details>
 
-<summary>Day 3 - .NET Internals </summary>
-
-* Review&#x20;
-* CTS, CLS, CLR, IL
-* .NET Framework, .NET Core and .NET Standard
-* .NET SDK and .NET Runtime
-* Assembly and DLL
-* Compiling, Decompiling, JIT
-* Debugging&#x20;
-* Recap and Q\&A
-
-</details>
-
-<details>
-
-<summary>Day 4 - OOP Intro</summary>
+<summary>Day 3 - OOP Intro</summary>
 
 * Review&#x20;
 * Custom types - Class and Interface
@@ -264,6 +249,21 @@ Practice
 * Abstraction in brief
 * Polymorphism in brief
 * Interface and Abstract Class
+* Recap and Q\&A
+
+</details>
+
+<details>
+
+<summary>Day 4 - .NET Internals </summary>
+
+* Review&#x20;
+* CTS, CLS, CLR, IL
+* .NET Framework, .NET Core and .NET Standard
+* .NET SDK and .NET Runtime
+* Assembly and DLL
+* Compiling, Decompiling, JIT
+* Debugging&#x20;
 * Recap and Q\&A
 
 </details>
