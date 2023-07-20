@@ -129,15 +129,15 @@ Practice&#x20;
 * Operator Precedence
 * Arrays Operations - accessing, modifying, length, iterating, sorting, searching, copying, equality, empty check, element frequency, resizing, unique elements, range operations
 * Constants and Variables -
-* Date types ( `DateTime` ,`DateOnly` , `TimeOnly`, `DateTimeOffset` , `TimeSpan`) - [Date Types](http://127.0.0.1:5000/s/EQ6EmSeScPe6ab3ndFH0/date-types "mention")
-* Unique Id type - Guid -  [Unique Identifier](http://127.0.0.1:5000/s/EQ6EmSeScPe6ab3ndFH0/unique-identifier "mention")
+* Date types ( `DateTime` ,`DateOnly` , `TimeOnly`, `DateTimeOffset` , `TimeSpan`) - [Date Types](http://127.0.0.1:5000/s/EQ6EmSeScPe6ab3ndFH0/ "mention")
+* Unique Id type - Guid -  [Unique Value Types](http://127.0.0.1:5000/s/EQ6EmSeScPe6ab3ndFH0/unique-value-types "mention")
 * Variable scope -&#x20;
 * Casting, Conversion and Parsing
 * Widening, Narrowing
 * Implicit and Explicit casting
 * Boxing and Unboxing
 * Tuples and Pattern matching with Tuples - [Pattern matching with Tuples](http://127.0.0.1:5000/s/hgPiaeie9sbL3ybCyr9z/pattern-matching-with-tuples "mention")
-* Array and Collections intro&#x20;
+* Array and Collections intro
 * Big numerics type - BigInteger -&#x20;
 * Recap and Q\&A
 
@@ -165,8 +165,11 @@ Practice&#x20;
 * Review
 * Nested Control Structures and How to fix
 * Exceptions and Catching Exceptions
-* Advanced Pattern Matching
 * Recap and Q\&A
+
+<!---->
+
+*
 
 </details>
 
