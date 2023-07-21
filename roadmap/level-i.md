@@ -150,10 +150,10 @@ Practice&#x20;
 <summary>Day 1 - Hands-On String Operations</summary>
 
 * Review&#x20;
-* String, String Builder and String Pool
-* Regular Expression
-* String Encoding and Decoding
-* Date Formatting for String
+* String, String Builder and String Pool - [String Operations](http://127.0.0.1:5000/o/cncGNMEslMUW34fhoxqJ/s/ZFnZjqsJBXHTIW5PxhwM/ "mention")
+* Regular Expression - [String Operations](http://127.0.0.1:5000/o/cncGNMEslMUW34fhoxqJ/s/ZFnZjqsJBXHTIW5PxhwM/ "mention")
+* String Encoding and Decoding -&#x20;
+* Date Formatting for String -&#x20;
 * Recap and Q\&A
 
 </details>
