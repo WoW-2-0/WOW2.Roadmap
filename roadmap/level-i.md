@@ -163,13 +163,9 @@ Practice&#x20;
 <summary>Day 2 - Hands-On Control Structures</summary>
 
 * Review
-* Nested Control Structures and How to fix
-* Exceptions and Catching Exceptions
+* Nested Control Structures and How to fix -&#x20;
+* Exceptions and Catching Exceptions -&#x20;
 * Recap and Q\&A
-
-<!---->
-
-*
 
 </details>
 
@@ -177,10 +173,12 @@ Practice&#x20;
 
 <summary>Day 3 - OOP Intro</summary>
 
-* Review&#x20;
+* Review
 * Custom types - Class and Interface
-* Class and Object
-* Class and System.Object Relationship
+* Class and Object -&#x20;
+* Class and System.Object Relationship -
+* Class Roles - Service and Model&#x20;
+* Overriding System.Object behavior -&#x20;
 * Inheritance in brief
 * Encapsulation in brief
 * Abstraction in brief
@@ -192,7 +190,7 @@ Practice&#x20;
 
 <details>
 
-<summary>Day 4 - .NET Internals </summary>
+<summary>Day 4 - .NET Internals</summary>
 
 * Review&#x20;
 * CTS, CLS, CLR, IL
