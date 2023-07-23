@@ -40,6 +40,18 @@ Vue
 
 
 
+
+
+<details>
+
+<summary>Day - Frontend Intro</summary>
+
+* Solutions with&#x20;
+* Environment setup -&#x20;
+*
+
+</details>
+
 <details>
 
 <summary>Day - Vue Intro</summary>
