@@ -47,7 +47,7 @@ Vue
 <summary>Day - Frontend Intro</summary>
 
 * Solutions with&#x20;
-* Environment setup -&#x20;
+* Environment setup - node.js, npm, Vue Dev Tools
 * Solutions
 
 </details>
@@ -59,6 +59,7 @@ Vue
 * Vue Intro - [Vue](http://127.0.0.1:5000/s/pImpFFn6EDwOAQursN74/ "mention")
 * Creating Vue app - [Creating an App](http://127.0.0.1:5000/s/SXRzGda0cv2nGtxAlNr7/creating-an-app "mention")
 * Creating Vue app with CDN - [Creating a Vue app using CDN](http://127.0.0.1:5000/s/SXRzGda0cv2nGtxAlNr7/creating-a-vue-app-using-cdn "mention")
+*
 * Adding style - [Installing Tailwind CSS in Vue](http://127.0.0.1:5000/s/QOuZSHhF2QKt1PHBicQR/using-tailwind-css/installing-tailwind-css-in-vue "mention")
 * Components - [Component](http://127.0.0.1:5000/s/FNZDepdJbOGqXAr4LF3I/ "mention")
 *
