@@ -48,7 +48,7 @@ Vue
 
 * Solutions with&#x20;
 * Environment setup -&#x20;
-*
+* Solutions
 
 </details>
 
@@ -57,15 +57,11 @@ Vue
 <summary>Day - Vue Intro</summary>
 
 * Vue Intro - [Vue](http://127.0.0.1:5000/s/pImpFFn6EDwOAQursN74/ "mention")
-* Components - [Component](http://127.0.0.1:5000/s/FNZDepdJbOGqXAr4LF3I/ "mention")
 * Creating Vue app - [Creating an App](http://127.0.0.1:5000/s/SXRzGda0cv2nGtxAlNr7/creating-an-app "mention")
 * Creating Vue app with CDN - [Creating a Vue app using CDN](http://127.0.0.1:5000/s/SXRzGda0cv2nGtxAlNr7/creating-a-vue-app-using-cdn "mention")
 * Adding style - [Installing Tailwind CSS in Vue](http://127.0.0.1:5000/s/QOuZSHhF2QKt1PHBicQR/using-tailwind-css/installing-tailwind-css-in-vue "mention")
-* API Styles - [API Styles](http://127.0.0.1:5000/s/1FIyRzhbryp5HCaRj21R/api-styles "mention")
-* Composition API - [Composition API](http://127.0.0.1:5000/s/rLkwIjzcjW9hsdXhEy5y/ "mention")
+* Components - [Component](http://127.0.0.1:5000/s/FNZDepdJbOGqXAr4LF3I/ "mention")
 *
-
-
 
 Practice
 
@@ -74,6 +70,22 @@ Practice
 </details>
 
 Practice -&#x20;
+
+
+
+
+
+<details>
+
+<summary>Day</summary>
+
+* Creating Vue app - [Creating a Vue app](http://127.0.0.1:5000/s/SXRzGda0cv2nGtxAlNr7/creating-a-vue-app "mention")
+* SFC - [SFC - Single File Component](http://127.0.0.1:5000/s/5ZlLaOcOm2wPjUDYxavG/ "mention")
+* API Styles - [API Styles](http://127.0.0.1:5000/s/1FIyRzhbryp5HCaRj21R/api-styles "mention")
+* Composition API - [Composition API](http://127.0.0.1:5000/s/rLkwIjzcjW9hsdXhEy5y/ "mention")
+*
+
+</details>
 
 
 
