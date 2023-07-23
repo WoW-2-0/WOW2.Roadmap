@@ -8,7 +8,68 @@
 
 
 
-* c# current and upcoming features
+
+
+
+
+
+
+Frontend&#x20;
+
+Tailwind
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vue
+
+*
+
+
+
+
+
+<details>
+
+<summary>Day - Vue Intro</summary>
+
+* Vue Intro - [Vue](http://127.0.0.1:5000/s/pImpFFn6EDwOAQursN74/ "mention")
+* Components - [Component](http://127.0.0.1:5000/s/FNZDepdJbOGqXAr4LF3I/ "mention")
+* Creating Vue app - [Creating an App](http://127.0.0.1:5000/s/SXRzGda0cv2nGtxAlNr7/creating-an-app "mention")
+* Creating Vue app with CDN - [Creating a Vue app using CDN](http://127.0.0.1:5000/s/SXRzGda0cv2nGtxAlNr7/creating-a-vue-app-using-cdn "mention")
+* Adding style - [Installing Tailwind CSS in Vue](http://127.0.0.1:5000/s/QOuZSHhF2QKt1PHBicQR/using-tailwind-css/installing-tailwind-css-in-vue "mention")
+* API Styles - [API Styles](http://127.0.0.1:5000/s/1FIyRzhbryp5HCaRj21R/api-styles "mention")
+* Composition API - [Composition API](http://127.0.0.1:5000/s/rLkwIjzcjW9hsdXhEy5y/ "mention")
+*
+
+
+
+Practice
+
+* T1  - Creating an App - [Vue Hello World](http://127.0.0.1:5000/s/z4Mpjvmjhz8BERFKEhuS/creating-an-app/creating-an-app-using-cdn/vue-hello-world "mention")
+
+</details>
+
+Practice -&#x20;
+
+
+
+
+
+
+
+*
 
 Checked/Unchecked and Managed/Unmanaged
 
