@@ -43,7 +43,7 @@ Presentation [**link**](https://www.canva.com/design/DAFmo61--EM/h-Q-YH8SzLOBJWD
 * Static and Dynamic Types
 * Built-In and Custom Types
 * Arrays
-* Hierarchy between types and System.Object
+* Hierarchy between types and System.Object -&#x20;
 * Recap and Q\&A
 
 
@@ -183,7 +183,7 @@ Practice&#x20;
 
 * Class and Object -
 * Method ( parameter, body, name )
-* Class ( Type ) member
+* Class ( Type ) members ( Field, Property, Method, Constructor )
 * Class and System.Object Relationship -
 * Class Roles - Service and Model&#x20;
 * Overriding System.Object behavior -&#x20;
@@ -310,7 +310,8 @@ Practice&#x20;
 
 <!---->
 
-* Constant, Write Only, Read Only and Init Only
+* Constant, W
+* rite Only, Read Only and Init Only
 
 <!---->
 
@@ -327,7 +328,7 @@ Practice&#x20;
 <!---->
 
 * Polymorphism
-*
+* Destructing
 
 <!---->
 
