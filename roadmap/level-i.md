@@ -174,8 +174,16 @@ Practice&#x20;
 <summary>Day 3 - OOP Intro</summary>
 
 * Review
+* Data Structrues, Types and Class - [Data Structures](http://127.0.0.1:5000/s/KaXxOTyDN9FFdQhwmWRi/ "mention")
+* \
+
 * Custom types - Class and Interface
-* Class and Object -&#x20;
+
+<!---->
+
+* Class and Object -
+* Method ( parameter, body, name )
+* Class ( Type ) member
 * Class and System.Object Relationship -
 * Class Roles - Service and Model&#x20;
 * Overriding System.Object behavior -&#x20;
@@ -219,6 +227,8 @@ Practice&#x20;
 * Recap and Q\&A
 
 </details>
+
+
 
 ## Week 3
 
