@@ -153,7 +153,7 @@ Presentation [**link**](https://www.canva.com/design/DAFmo61--EM/h-Q-YH8SzLOBJWD
 * Inheritance - #OOP
 * Encapsulation in brief
 * Abstraction in brief
-* Polymorphism in brief
+* Polymorphism in briefte
 * Interface and Abstract Class
 * Recap and Q\&A
 
