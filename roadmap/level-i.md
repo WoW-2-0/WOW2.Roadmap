@@ -19,7 +19,7 @@ Presentation [**link**](https://www.canva.com/design/DAFmo61--EM/h-Q-YH8SzLOBJWD
 * Environment Setup - [SDK](http://127.0.0.1:5000/s/L9ELpa76zRfOR7Cndiki/ "mention") and [IDE](http://127.0.0.1:5000/s/L9ELpa76zRfOR7Cndiki/ide "mention")
 * Creating simple console app - [Creating Simple Console App](http://127.0.0.1:5000/s/lYB0jf1P1bcsX5w3QerY/console-project/creating-simple-console-app "mention")
 * Solution, Project, Namespace -&#x20;
-* Built files -&#x20;
+* Built files - bin and obj folders
 * Environment Setup 2 - [Version Control](http://127.0.0.1:5000/s/L9ELpa76zRfOR7Cndiki/version-control "mention") and [Git Setup](http://127.0.0.1:5000/s/L9ELpa76zRfOR7Cndiki/version-control/git-setup "mention")
 * Searching and Learning Resources - [Searching Resources](http://127.0.0.1:5000/s/wpbnYiHefP0V0pfjLpxt/ "mention") and [Learning Resources](http://127.0.0.1:5000/s/wpbnYiHefP0V0pfjLpxt/learning-resources "mention")
 * Recap and Q\&A
@@ -46,12 +46,6 @@ Presentation [**link**](https://www.canva.com/design/DAFmo61--EM/h-Q-YH8SzLOBJWD
 * Hierarchy between types and System.Object -&#x20;
 * Recap and Q\&A
 
-
-
-Practice&#x20;
-
-*
-
 </details>
 
 <details>
@@ -71,34 +65,6 @@ Practice&#x20;
 * Trim and Padding
 * Recap and Q\&A
 
-
-
-1. Task: Write a program that reads a paragraph of text from a file. Perform the following operations:
-   * Split the paragraph into individual sentences.
-   * Convert all the sentences to lowercase.
-   * Search for a specific word entered by the user in the sentences and display the count of its occurrences.
-   * Replace all occurrences of the word with another word provided by the user.
-   * Trim any leading or trailing whitespace from each sentence.
-   * Join the modified sentences back together with a space as the delimiter.
-   * Display the final modified paragraph.
-2. Task: Implement a program that reads a list of email addresses from a file. Perform the following operations:
-   * Split each email address into the local part and the domain part.
-   * Convert the local part to lowercase and the domain part to uppercase.
-   * Compare two email addresses to check for equality and display a message indicating whether they are the same or different.
-   * Search for a specific domain entered by the user and display all the email addresses that belong to that domain.
-   * Replace the domain part of each email address with a new domain provided by the user.
-   * Trim any whitespace characters from each email address.
-   * Join the modified email addresses back together with a comma as the delimiter.
-   * Display the final modified list of email addresses.
-3. Task: Create a program that prompts the user to enter a sentence. Perform the following operations:
-   * Convert the sentence to title case, capitalizing the first letter of each word and converting the rest to lowercase.
-   * Split the sentence into individual words.
-   * Search for a specific word entered by the user and display the positions of its occurrences.
-   * Replace all occurrences of the word with another word provided by the user.
-   * Trim any leading or trailing whitespace from each word.
-   * Join the modified words back together with a hyphen as the delimiter.
-   * Display the final modified sentence.
-
 </details>
 
 <details>
@@ -112,11 +78,7 @@ Practice&#x20;
 * Branching with Switch statement and Switch expression
 * Flow control with continue and break
 * Loops with Do-While, While, For, For Each
-* Pattern matching - Declaration and Type, Logical, Relational - [Pattern Matching](http://127.0.0.1:5000/s/hgPiaeie9sbL3ybCyr9z/ "mention"), [Logical Pattern](http://127.0.0.1:5000/s/hgPiaeie9sbL3ybCyr9z/logical-pattern "mention"), [Relational Pattern](http://127.0.0.1:5000/s/hgPiaeie9sbL3ybCyr9z/relational-pattern "mention")&#x20;
-
-<!---->
-
-* Recap and Q\&A
+* Pattern matching - Declaration and Type, Logical, Relational - [Pattern Matching](http://127.0.0.1:5000/s/hgPiaeie9sbL3ybCyr9z/ "mention"), [Logical Pattern](http://127.0.0.1:5000/s/hgPiaeie9sbL3ybCyr9z/logical-pattern "mention"), [Relational Pattern](http://127.0.0.1:5000/s/hgPiaeie9sbL3ybCyr9z/relational-pattern "mention")
 
 </details>
 
