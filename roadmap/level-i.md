@@ -150,6 +150,7 @@ Presentation [**link**](https://www.canva.com/design/DAFmo61--EM/h-Q-YH8SzLOBJWD
 * Class Roles - Service and Model&#x20;
 * Overriding System.Object behavior -&#x20;
 * Inheritance in brief
+* Inheritance - #OOP
 * Encapsulation in brief
 * Abstraction in brief
 * Polymorphism in brief
